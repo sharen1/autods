@@ -16,4 +16,3 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/ntlf9t/luci-app-easymesh' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-git clone https://github.com/sharen1/luci-app-easymesh package/luci-app-easymesh
